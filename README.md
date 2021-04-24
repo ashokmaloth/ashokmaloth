@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gmail : ashokkumarmaloth000@gmail.com
                       icloud: a.maloth@icloud.com
                       instagram: ashok.py
+                      protonmail: ashokmaloth@protonmail.com
+                      outlook: ashokmaloth@outlook.com
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
