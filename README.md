@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a machine learning project 
 - 📫 How to reach me: gmail : ashokkumarmaloth000@gmail.com
                       icloud: a.maloth@icloud.com
-                      instagram: ash_0k
+                      instagram: ashok.py
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
